@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @liorgefen12-oss
+/src/backend/database.py      @liorgefen12-oss
+/src/backend/routers/auth.py  @liorgefen12-oss
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @liorgefen12-oss
